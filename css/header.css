@@ -1,0 +1,21 @@
+.header {
+
+    font-family: "Whisper", sans-serif;
+    background-color: #48f350;
+    color: rgb(219, 23, 23);
+    font-size: 70px;
+    font-weight: bold;
+    text-shadow: 3px -3px 2px #303030;
+    border-color: #3bca43;
+    border-style: solid;
+    border-width: 3px;
+    border-top-width: 0px;
+    border-radius: 0px 0px 30px 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    box-shadow: 0px 0px 10px 2px #6d6d6d;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
