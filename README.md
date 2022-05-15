@@ -1,7 +1,5 @@
 # Homepage
 
-## DEMO
-
 ## Details
 
 My personal Homepage prepared during YouCode.pl lessons. 
